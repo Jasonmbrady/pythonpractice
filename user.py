@@ -1,5 +1,6 @@
 from cart import Cart
 
+# Added a comment
 class User:
     def __init__(self, data):
         self.f_name = data['f_name']
